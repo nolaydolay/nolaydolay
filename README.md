@@ -17,7 +17,7 @@ $${\color{green}devesful \space oooooo \space okay \space just \space testing}$$
 <img width="1557" height="814" alt="Image" src="https://github.com/user-attachments/assets/dc4fd65c-09cd-4ba9-aaf9-ecbba8e39de4" />
 
 
-[Profile views](https://komarev.com/ghpvc/?username=chickenlegs&color=800080&label=visitors)
+
 
 ⠀⠀⠀[ATABOOK](https://buildermhaterr.atabook.org/)
 
