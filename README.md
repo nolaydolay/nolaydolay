@@ -10,6 +10,8 @@ DUDUEDE I LIKE TO MATCH PONIES W PEOPLE LIKE YES LETS GO MAN WE CAN MATCH WHATEV
 Maybe that's all u need to know first 
 
 
+<span style="color:#00ff00">This text is green</span>
+
 <img width="1557" height="814" alt="Image" src="https://github.com/user-attachments/assets/dc4fd65c-09cd-4ba9-aaf9-ecbba8e39de4" />
 
 
