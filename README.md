@@ -10,7 +10,10 @@ DUDUEDE I LIKE TO MATCH PONIES W PEOPLE LIKE YES LETS GO MAN WE CAN MATCH WHATEV
 Maybe that's all u need to know first 
 
 
-![Build](https://img.shields.io/badge/Build-Passing-blue)
++ This line looks green
+- This line looks red
+! This line looks yellow
+
 
 <img width="1557" height="814" alt="Image" src="https://github.com/user-attachments/assets/dc4fd65c-09cd-4ba9-aaf9-ecbba8e39de4" />
 
