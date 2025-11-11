@@ -1,5 +1,5 @@
 
-## TS IS SO HARD '' WIP ^_^
+## GitHub so messed up rn '' WIP ^_^
 
 I’m not the best at conversations, so sorry if I seem boring or anything
 
