@@ -17,7 +17,8 @@ $${\color{green}devesful \space oooooo \space okay \space just \space testing}$$
 <img width="1557" height="814" alt="Image" src="https://github.com/user-attachments/assets/dc4fd65c-09cd-4ba9-aaf9-ecbba8e39de4" />
 
 
-![wip](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fhits.sh%2Fnolaydolay.json&label=wip&labelColor=800080&color=FFD700)
+![](https://komarev.com/ghpvc/?username=nolaydolay&label=MATT+HATE+CLUB&labelColor=006400&color=006400&style=flat)
+
 
 ⠀⠀⠀[ATABOOK](https://buildermhaterr.atabook.org/)
 
