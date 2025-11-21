@@ -9,7 +9,8 @@
 If you ever notice that one of my ponies looks too similar to yours, please don’t hesitate to tell me. I’ll gladly change it  ! 
 
 4. i like matchin okay bye
-5. minor 18 + iwc okay
+   
+6. minor 18 + iwc okay
 
 
 Maybe that's all u need to know first 
